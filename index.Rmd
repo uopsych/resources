@@ -1,0 +1,8 @@
+---
+title: "UO Psychology Data Science Resources"
+output: 
+  html_document:
+    toc: TRUE
+---
+
+This is the homepage for the UO PSY resource website.

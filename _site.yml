@@ -1,0 +1,14 @@
+name: "UO PSY Data Science Resources"
+output_dir: "."
+navbar:
+  title: "UO PSY"
+  left:
+  - text: "Home"
+    href: index.html
+  right:
+  - icon: fa-github
+    href: https://github.com/uopsych/resources
+output:
+  html_document:
+    lib_dir: site_libs
+    self_contained: no
